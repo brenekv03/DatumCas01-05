@@ -40,7 +40,7 @@ namespace DatumCas01
             }
             MessageBox.Show("Nejstarší je: " + nejstarsi.ToShortDateString());
         }
-
+        //Datetime01
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
